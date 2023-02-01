@@ -1,0 +1,15 @@
+git init
+git add nombrearchivo
+git add . (Agrega todos los archivos)
+git status
+git commit -m "Mensaje"
+git remote add origin https://github.com/konkkeror/hola-mundo-poo.git
+git push -u origin main
+git diff (Muestra los cambios realizados desde el último commit)
+
+git pull origin main
+
+.gitignore => Sirve para listar los archivos y carpetas que queremos ignorar
+
+Oh My ZSH => Para la consola (Linux, mac)
+Mi tema de VSCode => Material Theme
